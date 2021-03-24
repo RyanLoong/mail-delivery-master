@@ -118,5 +118,19 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.6.2" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.1.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis:mybatis:3.5.3" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis:mybatis-spring:2.0.3" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.22" level="project" />
+    <orderEntry type="library" name="Maven: hikari-cp:hikari-cp:2.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:clojure:1.9.0" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:spec.alpha:0.1.143" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:core.specs.alpha:0.1.24" level="project" />
+    <orderEntry type="library" name="Maven: org.tobereplaced:lettercase:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:3.2.0" level="project" />
   </component>
 </module>
